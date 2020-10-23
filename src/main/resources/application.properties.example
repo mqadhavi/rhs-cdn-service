@@ -1,0 +1,10 @@
+
+spring.application.name=rhs-cdn-service
+server.port=8084
+
+#cdn config
+cdn.protocol=https
+cdn.domain=sfo2.digitaloceanspaces.com
+cdn.access.key=EBZXZDCTMDK4O3Y6SRHM
+cdn.secret.key=cZgjM9QbYE4014EyU4R/9KZWOqfI7Q2fXt8+cHLpENY  
+cdn.bucket.name=files.rhs
